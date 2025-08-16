@@ -39,7 +39,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ✨ A true Mavuika Premium Team account, ready for domination!`,
                 price: '$137',
-                sellerRating: 'New Seller'
+                sellerRating: 'New Seller',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
             },
             {
                 img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755187109/4_yxmnzg.jpg',
@@ -59,7 +60,8 @@ document.addEventListener('DOMContentLoaded', () => {
                                     Ad1 : 8.5k INR (~$97)\n\
                                     Ad5 : 8.5k INR (~$97) 🔥 Best Value 🏆 Premium features, changeable mail, quick surrender option',
                 price: '$80 - $120',
-                sellerRating: '4.8/5 (50 trades)'
+                sellerRating: '4.8/5 (50 trades)',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
             },
             {
                 img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755189009/9_zu1scr.jpg',
@@ -76,7 +78,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         📷 Check pics for full HSR details\n\
                         💰 Price: 16k INR (~$192) 🔥 Premium deal for serious players!',
                 price: '$192',
-                sellerRating: '4.9/5 (30 trades)'
+                sellerRating: '4.9/5 (30 trades)',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
             },
             {
                 img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755190928/c_phd2ob.jpg',
@@ -96,7 +99,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         💠 900 Genesis Crystals Available\n\
                         💰 Price: 18k INR (~$216) 🔥 Best Value 🏆 Premium Features, Endgame Ready!',
                 price: '$216',
-                sellerRating: 'New Seller'
+                sellerRating: 'New Seller',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
             }
             
         ],
@@ -280,7 +284,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const filteredAccounts = {};
         for (const game in accounts) {
             filteredAccounts[game] = accounts[game].filter(account => {
-                return account.title.toLowerCase().includes(query) || account.details.toLowerCase().includes(query);
+                const paymentMethods = account.paymentMethods ? account.paymentMethods.join(' ').toLowerCase() : '';
+                return account.title.toLowerCase().includes(query) || 
+                       account.details.toLowerCase().includes(query) ||
+                       paymentMethods.includes(query);
             });
         }
         loadAccounts(filteredAccounts);
