@@ -37,6 +37,9 @@ document.addEventListener('DOMContentLoaded', () => {
 ➡️ Venti + Sig Weapon
 ➡️ Yelan + Sig Weapon
 
+😇CHECK PICTURES FOR MORE INFO
+
+
 ✨ A true Mavuika Premium Team account, ready for domination!`,
                 price: '$137',
                 sellerRating: 'New Seller',
@@ -58,7 +61,8 @@ document.addEventListener('DOMContentLoaded', () => {
                                     Km03 : 10.5k INR (~$120)\n\
                                     Km04 : 7k INR (~$80)\n\
                                     Ad1 : 8.5k INR (~$97)\n\
-                                    Ad5 : 8.5k INR (~$97) 🔥 Best Value 🏆 Premium features, changeable mail, quick surrender option',
+                                    Ad5 : 8.5k INR (~$97) 🔥 Best Value 🏆 Premium features, changeable mail, quick surrender option\n\
+                                    😇CHECK PICTURES FOR MORE INFO',
                 price: '$80 - $120',
                 sellerRating: '4.8/5 (50 trades)',
                 paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
@@ -76,7 +80,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         • 🌿 C6 Nahida + Signature Weapon\n\
                         • 💧 C2 Furina + Signature Weapon\n\
                         📷 Check pics for full HSR details\n\
-                        💰 Price: 16k INR (~$192) 🔥 Premium deal for serious players!',
+                        💰 Price: 16k INR (~$192) 🔥 Premium deal for serious players!\n\
+                        😇CHECK PICTURES FOR MORE INFO',
                 price: '$192',
                 sellerRating: '4.9/5 (30 trades)',
                 paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
@@ -97,9 +102,27 @@ document.addEventListener('DOMContentLoaded', () => {
                         🪭 Chiori + Signature Weapon\n\
                         🎯 Guaranteed 17 Pity on Weapon Banner\n\
                         💠 900 Genesis Crystals Available\n\
-                        💰 Price: 18k INR (~$216) 🔥 Best Value 🏆 Premium Features, Endgame Ready!',
+                        💰 Price: 18k INR (~$216) 🔥 Best Value 🏆 Premium Features, Endgame Ready!\n\
+                        😇CHECK PICTURES FOR MORE INFO',
                 price: '$216',
                 sellerRating: 'New Seller',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
+            },
+             {
+                img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755446763/g_mvgest.jpg',
+                images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755446763/g_mvgest.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755446763/gg_g9lqt6.jpg'],
+                title: '🌟 Genshin Impact Account on Sale 🌟',
+                details: '🔥 Mavuika Premium Team\n\
+                            🔥 Arlecchino Premium Team\n\
+                            \n\
+                            ✨ C1 Neuvillette\n\
+                            ✨ Furina + Signature Weapon\n\
+                            ✨ Zhongli + Signature Weapon\n\
+                            ✨ Kazuha + Signature Weapon\n\
+                            \n\
+                            😇CHECK PICTURES FOR MORE INFO',
+                price: '$22.85',
+                sellerRating: '5/5 (3 trades)',
                 paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
             }
             
