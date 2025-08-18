@@ -124,7 +124,118 @@ document.addEventListener('DOMContentLoaded', () => {
                 price: '$22.85',
                 sellerRating: '5/5 (3 trades)',
                 paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
+            },
+             {
+                img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755521361/4k_xh3umo.jpg',
+                images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755521361/4k_xh3umo.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755521361/4kk_puirfw.jpg'],
+                title: 'WTS – Genshin Account ',
+                details: `📢 WTS – Genshin Account  
+
+✨ Nahida + Signature  
+✨ Eula + Signature  
+✨ Raiden Shogun + Signature  
+✨ Ayaka + Signature  
+
+💰 Price: 4,000 INR (~$45.7 USD)  
+
+                            😇CHECK PICTURES FOR MORE INFO`,
+                price: '$45.7',
+                sellerRating: 'New seller',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
+            },
+             {
+                img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522095/2k_fpqzzz.jpg',
+                images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522095/2k_fpqzzz.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522095/2k1_zk0itx.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522095/2k2_z83toz.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522096/2k3_n7zopo.jpg'],
+                title: '📢 WTS – Genshin Account 2',
+                details: `📢 WTS – Genshin Account  
+
+✨ Eula + Signature Weapon  
+🎟️ 27 Pulls Available  
+
+💰 Price: 2,000 INR (~$22.85 USD)  
+
+                            😇CHECK PICTURES FOR MORE INFO`,
+                price: '$22.85',
+                sellerRating: '5/5 (12 trades)',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
+            },
+             {
+                img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522708/r_uoe1ln.jpg',
+                images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522708/r_uoe1ln.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522709/rrr_zqvnzt.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522709/rr_nbexgm.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522709/rrrr_wfpfyo.jpg'],
+                title: '🌟 Genshin Impact Account on Sale 🌟',
+                details: `🚨 RUSHHHHH – WTS 🚨  
+
+🌟 Premium Genshin Account 🌟  
+
+🔥 C2R1 Citlali  
+🔥 C2R1 Mavuika  
+🔥 C2R1 Arlecchino  
+🔥 C4R1 Raiden Shogun  
+🔥 C2R1 Neuvillette  
+🔥 C2R1 Nahida  
+🔥 C1R1 Hu Tao  
+
+✨ R1 Escoiffer  
+✨ R1 Furina  
+✨ R1 Xianyun  
+✨ R4 Xiao  
+✨ R1 Eula  
+✨ R1 Ayaka  
+✨ R1 Yelan  
+✨ R1 Ganyu  
+✨ R1 Navia  
+✨ R1 Baizhu  
+
+💰 **Rate: 25,000 INR (~$285 USD) ONLY!**  
+
+                            😇CHECK PICTURES FOR MORE INFO`,
+                price: '$285',
+                sellerRating: '5/5 (37 trades)',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
+            },
+             {
+                img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522932/fs_t6t8uz.jpg',
+                images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522932/fs_t6t8uz.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522932/fs2_t415sa.jpg'],
+                title: '📢 Genshin Account FS ',
+                details: `📢 Genshin Account FS (Asia Server)  
+
+✨ C2R1 Furina  
+✨ C2R1 Ayaka  
+✨ C1 Kazuha  
+✨ R1 Mavuika  
+✨ R1 Raiden Shogun  
+✨ R1 Kinich  
+
+💰 Price: 5,000 INR (~$57 USD)  
+
+                            😇CHECK PICTURES FOR MORE INFO`,
+                price: '$57',
+                sellerRating: '4.9/5 (2 trades)',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
+            },
+             {
+                img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524318/ts3_gi5nfl.jpg',
+                images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524318/ts3_gi5nfl.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524317/ts2_kt9wgb.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524318/ts5_nhoszb.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524317/ts_eb2fce.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524317/ts4_ioxfbm.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524317/ts6_yegsgb.jpg'],
+                title: 'Low Explored Genshin Account 🌍',
+                details: `🔄 For Trade / 💵 FS – Genshin Account (Asia Server)  
+
+🌍 Low Exploration ✅  
+👑 All 6/6 Archons Owned  
+
+✨ C1 Skirk  
+✨ C2 Arlecchino  
+✨ R1 Mavuika  
+✨ R1 Ayaka  
+✨ R1 Ayato  
+
+💰 Price: 7,000 INR (~$80 USD)  
+
+                            😇CHECK PICTURES FOR MORE INFO`,
+                price: '$80',
+                sellerRating: '5/5 (22 trades)',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
             }
+            
             
         ],
         /*
@@ -179,26 +290,48 @@ document.addEventListener('DOMContentLoaded', () => {
                 price: '$50',
                 sellerRating: '4.7/5 (15 sales)'
             }
-        ],
+        ],*/
         wutheringwaves: [
-            {
-                img: 'https://i.imgur.com/nU5I4jC.jpeg',
-                images: ['https://i.imgur.com/nU5I4jC.jpeg', 'https://i.imgur.com/nU5I4jC.jpeg', 'https://i.imgur.com/nU5I4jC.jpeg', 'https://i.imgur.com/nU5I4jC.jpeg'],
-                title: 'Wuthering Waves Starter',
-                details: 'Union Level 10, with a 5-star Resonator like Jiyan. Great start for a new player.',
-                price: '$30',
-                sellerRating: 'New Seller'
-            },
-            {
-                img: 'https://i.imgur.com/nU5I4jC.jpeg',
-                images: ['https://i.imgur.com/nU5I4jC.jpeg', 'https://i.imgur.com/nU5I4jC.jpeg', 'https://i.imgur.com/nU5I4jC.jpeg', 'https://i.imgur.com/nU5I4jC.jpeg'],
-                title: 'Wuthering Waves Mid-Game',
-                details: 'Union Level 40, multiple 5-star Resonators and weapons. Good progress in the story.',
-                price: '$70',
-                sellerRating: '4.6/5 (5 trades)'
+             {
+                img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525232/l2_djzcfm.jpg',
+                images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525232/l2_djzcfm.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525232/l10_dqoqco.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525232/l_nuxgq5.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525232/l4_qureuq.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525233/l7_kegwa8.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525232/l6_shr4r0.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525232/l5_vjkis6.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525232/l3_uxfvpk.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525238/l8_e8eufy.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755525239/l9_rgi82p.jpg'],
+                title: 'Premium Wuthering Waves Account 🌟',
+                details: `📢 Premium Wuthering Waves Account  
+
+🔹 Union Level: 77  
+🔹 Well-Built Characters  
+🔹 Endgame Ready  
+🔹 Single Login  
+
+🌟 Characters & Skins:  
+✨ Carlotta + Skin + Signature  
+✨ Cartethyia + Skin + Signature  
+✨ Jinhsi + Skin + Signature  
+✨ Zani + Signature  
+✨ Zhezhi + Signature  
+✨ Camellya  
+✨ Cantarella  
+✨ Phrolova  
+✨ Phoebe  
+
+🎟️ Banner Status:  
+- Character Pity: 5  
+- Weapon Pity: 25  
+
+🎁 Extras:  
+- Lunite Subscription: 85 Days Ongoing  
+- **Dawn Upon Thorn** Set (Glider)  
+
+💰 Price: 12,000 INR (~$137 USD)  
+
+
+                            😇CHECK PICTURES FOR MORE INFO`,
+                price: '$137',
+                sellerRating: '5/5 (122 trades)',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
             }
         ]
-        */
+        
     };
 
     const modal = document.getElementById('account-modal');
