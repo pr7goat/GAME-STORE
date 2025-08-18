@@ -128,8 +128,8 @@ document.addEventListener('DOMContentLoaded', () => {
              {
                 img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755521361/4k_xh3umo.jpg',
                 images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755521361/4k_xh3umo.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755521361/4kk_puirfw.jpg'],
-                title: 'WTS – Genshin Account ',
-                details: `📢 WTS – Genshin Account  
+                title: 'Genshin Account #1',
+                details: `📢Genshin Account  
 
 ✨ Nahida + Signature  
 ✨ Eula + Signature  
@@ -146,8 +146,8 @@ document.addEventListener('DOMContentLoaded', () => {
              {
                 img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522095/2k_fpqzzz.jpg',
                 images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522095/2k_fpqzzz.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522095/2k1_zk0itx.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522095/2k2_z83toz.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522096/2k3_n7zopo.jpg'],
-                title: '📢 WTS – Genshin Account 2',
-                details: `📢 WTS – Genshin Account  
+                title: '📢Genshin Account #2',
+                details: `📢Genshin Account  
 
 ✨ Eula + Signature Weapon  
 🎟️ 27 Pulls Available  
@@ -196,8 +196,8 @@ document.addEventListener('DOMContentLoaded', () => {
              {
                 img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522932/fs_t6t8uz.jpg',
                 images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522932/fs_t6t8uz.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755522932/fs2_t415sa.jpg'],
-                title: '📢 Genshin Account FS ',
-                details: `📢 Genshin Account FS (Asia Server)  
+                title: '📢 Genshin Account #3 ',
+                details: `📢 Genshin Account (Asia Server)  
 
 ✨ C2R1 Furina  
 ✨ C2R1 Ayaka  
@@ -217,7 +217,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524318/ts3_gi5nfl.jpg',
                 images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524318/ts3_gi5nfl.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524317/ts2_kt9wgb.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524318/ts5_nhoszb.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524317/ts_eb2fce.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524317/ts4_ioxfbm.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755524317/ts6_yegsgb.jpg'],
                 title: 'Low Explored Genshin Account 🌍',
-                details: `🔄 For Trade / 💵 FS – Genshin Account (Asia Server)  
+                details: `🔄 For Trade / 💵 For Sale – Genshin Account (Asia Server)  
 
 🌍 Low Exploration ✅  
 👑 All 6/6 Archons Owned  
