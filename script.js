@@ -234,7 +234,33 @@ document.addEventListener('DOMContentLoaded', () => {
                 price: '$80',
                 sellerRating: '5/5 (22 trades)',
                 paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
+            },
+             {
+                img: 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755870181/ak_wmukpy.jpg',
+                images: ['https://res.cloudinary.com/duyqqf5d6/image/upload/v1755870181/ak_wmukpy.jpg', 'https://res.cloudinary.com/duyqqf5d6/image/upload/v1755870181/ak3_tvkxhy.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755870180/ak2_wxlmf1.jpg','https://res.cloudinary.com/duyqqf5d6/image/upload/v1755870180/ak4_qrh9uo.jpg'],
+                title: 'Low Explored Personal Genshin Account 🌍',
+                details: `#personalstock – Genshin Account (Asia Server)  
+
+✅ No Hack | 🌍 Low Exploration  
+👑 5/6 Archons Owned  
+
+✨ C2 Ayaka  
+✨ C1 Xiao  
+✨ C1 Nahida  
+✨ C1 Hu Tao  
+✨ C1 Mavuika  
+✨ C1 Citlali  
+✨ Ganyu + Signature Weapon  
+
+💰 Price: 4,000 INR (~$45.7 USD)  
+
+
+                            😇CHECK PICTURES FOR MORE INFO`,
+                price: '$45.7',
+                sellerRating: 'Own Stock',
+                paymentMethods: ['Dana', 'Gcash', 'Binance/Crypto', 'UPI']
             }
+            
             
             
         ],
