@@ -1,4 +1,4 @@
-const accounts = {
+cons accounts = {
     genshin: [
         {
             img: 'https://i.imgur.com/jOu9tjh.jpg',
